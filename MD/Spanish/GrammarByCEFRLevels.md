@@ -10,11 +10,13 @@
 
 #### Regular verbs
 
+```
 -AR           -ER/IR
 
 -e  -emos     -a  -amos
 -es -éis      -as -áis
 -e  -en       -a  -an
+```
 
 #### Semi-regular verbs e>i
 
