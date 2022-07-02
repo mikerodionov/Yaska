@@ -6,6 +6,32 @@
 
 ## B1
 
+### El Futuro Simple
+
+```
+AR/ER/IR
+
+-é  -emos
+-ás -éis
+-á  -án
+```
+
+saber - sabr
+caber - cabr
+valer - valdr
+
+### El Condicional Simple
+
+```
+AR/ER/IR
+
+-ía  -íamos
+-ías -íais
+-ía  -ían
+```
+
+* ER/IR endings are the same as fpr El Pretérito Imperfecto
+
 ### El Presente de Subjuntivo
 
 #### Regular verbs
@@ -84,6 +110,14 @@ dar
 
 nosotros - 1st person plural present subjunctive
 tú - 3rd person singular present
-vostotros - infinitive -r +d
+vostotros - infinitive -r +d, d is dropped for reflexive verbs
 usted - 3rd person singualar present subjunctive
 ustedes - 3rd person plural present subjunctive
+
+### Position of pronouns with conjugated verbs
+
+- With DO, ID, reflexive pronouns (RP) - pronouns always go in front of verb structure
+- With negative commans - before verb, but after no
+- With multiple pronouns order is
+  - IOP, DOP
+  - RP, IOP
