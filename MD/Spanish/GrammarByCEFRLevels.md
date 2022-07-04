@@ -121,3 +121,27 @@ ustedes - 3rd person plural present subjunctive
 - With multiple pronouns order is
   - IOP, DOP
   - RP, IOP
+
+### Position of Spanish direct and indirect object pronouns with infinitive/present participle and affirmative commands
+
+1. When there are direct and indirect object pronouns in a sentence with a conjugated verb that is followed by an infinitive or a present participle, the position of the pronouns can be:
+
+- In front of the verb structure
+- Right after the infinitive/present participle and connected to it
+
+2. Affirmative commands - When there are direct and indirect object pronouns in a sentence with an affirmative command the pronouns must be placed right after the command and connected to it. It cannot be placed in front
+
+*¡Dame las llaves!*
+
+
+### dónde VS donde (with and without written accent)
+
+Dónde (in what location/to what location) - interrogative and exclamatory pronoun, used in both direct and inderect exclamatory and interrogative sentences (= sentence not necesarrily having exclamation or interrogation mark)
+
+*Marc me preguntó dónde estaba su carpeta.*
+
+Donde (in which) - relative pronoun, translated as where, but introduces a subordinate clause; without the clause introduced by donde the sentence will still be grammatically complete.
+
+Donde can be followed by an infinitive.
+
+If donde can be translated as "in what location/to what location" = dónde, figurative "where"/"in which" (without physical location meaning) = donde
