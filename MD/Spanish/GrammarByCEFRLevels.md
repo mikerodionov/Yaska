@@ -116,6 +116,13 @@ usted - 3rd person singualar present subjunctive
 ustedes - 3rd person plural present subjunctive
 ```
 
+### Imperativo + reflexive pronouns
+
+- Always after commanding verb & and attached to it.
+- nosotros form drops -s
+- vosotros form drops -d
+- exceptions: iros, idos
+
 ### Position of pronouns with conjugated verbs
 
 - With DO, ID, reflexive pronouns (RP) - pronouns always go in front of verb structure
