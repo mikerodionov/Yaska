@@ -108,11 +108,13 @@ dar
 
 ### Imperativo - Affirmative commands
 
+```
 nosotros - 1st person plural present subjunctive
 tú - 3rd person singular present
 vostotros - infinitive -r +d, d is dropped for reflexive verbs
 usted - 3rd person singualar present subjunctive
 ustedes - 3rd person plural present subjunctive
+```
 
 ### Position of pronouns with conjugated verbs
 
