@@ -157,6 +157,13 @@ If donde can be translated as "in what location/to what location" = dónde, figu
 
 ## B2
 
+### Conjugate verbs in the imperfect subjunctive tense (El Imperfecto de Subjuntivo)
+
+This tense has 2 conjugation forms
+
+- 1) stem + -ra, -ras, -ra, -ramos, -rais, -ran
+- 2) stem + -se, -ses, -se, -semos, -seis, -sen
+
 ### Using prepositions (except a and de) woth relative pronouns el que, la que, los que, las que = with/for/on/in/from which
 
 ### Adverbial clauses introduced by conjunctions para que, antes (de) que, hasta que, con tal (de que), etc. + the present subjunctive (El Presente De Subjuntivo)
