@@ -161,8 +161,12 @@ If donde can be translated as "in what location/to what location" = dónde, figu
 
 This tense has 2 conjugation forms
 
+the stem of the 3rd person plural (ellos, ellas) of El Pretérito Indefinido (without the -ron ending) + on of the following endings:
+
 - 1) stem + -ra, -ras, -ra, -ramos, -rais, -ran
 - 2) stem + -se, -ses, -se, -semos, -seis, -sen
+
+NOTE: Both the conjugations ending in -ra (conjugation 1) and in -se (conjugation 2) are used equally in Spain, but in Latin America the -ra (conjugation 1) form is more frequent in particular in the spoken language.
 
 ### Using prepositions (except a and de) woth relative pronouns el que, la que, los que, las que = with/for/on/in/from which
 
