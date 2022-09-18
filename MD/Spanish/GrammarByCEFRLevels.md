@@ -195,3 +195,20 @@ por más que
 una vez que
 cuando
 
+### Using the Spanish imperfect subjunctive in hypothetical clauses introduced by si followed by the Spanish conditional simple
+
+Hypothetical situation in English:
+
+If we won the lottery, we would buy a castle.
+If we were to win the lottery, we would buy a castle.
+
+If is followed by a verb in the Simple Past (won) or in the English subjunctive (were to win), while the second clause uses the Conditional Present (would buy).
+
+The same in Spanish:
+
+Si ganásemos la lotería, compraríamos un castillo.
+
+In Spanish, si is followed by a verb in [**El Imperfecto Subjuntivo**](#conjugate-verbs-in-the-imperfect-subjunctive-tense-(-el-imperfecto-de-subjuntivo)) (ganásemos), while the second clause uses **El Condicional Simple** (compraríamos).
+
+To express hypotheses in Spanish use si followed by El Imperfecto Subjuntivo, then use El Condicional Simple in the second part of the sentence.
+NOTE: You can never use El Presente de Subjuntivo for hypothesis after "si".
