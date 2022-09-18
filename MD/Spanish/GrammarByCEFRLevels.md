@@ -154,3 +154,10 @@ Donde (in which) - relative pronoun, translated as where, but introduces a subor
 Donde can be followed by an infinitive.
 
 If donde can be translated as "in what location/to what location" = dónde, figurative "where"/"in which" (without physical location meaning) = donde
+
+## B2
+
+### Using prepositions (except a and de) woth relative pronouns el que, la que, los que, las que = with/for/on/in/from which
+
+### Adverbial clauses para que, antes (de) que, hasta que, con tal (de que), etc. + the present subjunctive (El Presente De Subjuntivo)
+
