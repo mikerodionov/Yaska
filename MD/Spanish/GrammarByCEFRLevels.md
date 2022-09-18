@@ -161,3 +161,26 @@ If donde can be translated as "in what location/to what location" = dónde, figu
 
 ### Adverbial clauses introduced by conjunctions para que, antes (de) que, hasta que, con tal (de que), etc. + the present subjunctive (El Presente De Subjuntivo)
 
+Subjunctive mood is used/required in adverbial clause in Spanish if adverbial clause is considered as something hypothetical or anticipated, rather than completed, habitual or factual.
+
+Adverbial clauses in Spanish introduced by conjunctions:
+
+para que
+antes (de) que
+hasta que
+con tal (de) que
+
+Other adverbial constructions:
+
+a condición de que
+a menos que
+en caso de que
+sin que
+
+sieimpre que...
+mientras (que)...
+aunque...
+por más que
+una vez que
+cuando
+
