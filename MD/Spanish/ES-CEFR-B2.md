@@ -1,5 +1,37 @@
 # B2
 
+## Subjunctive
+
+### Using the Spanish subjunctive with negative opinion phrases
+
+### Using the Spanish imperfect subjunctive in hypothetical clauses introduced by si followed by the Spanish conditional simple
+
+### Using the Spanish present perfect subjunctive after esperar que to express a completed action in the past
+
+### Using the Spanish subjunctive with impersonal expressions
+
+Es necesario que Raul estudue más.
+
+es necesario que
+es genial que
+es imprescendible que
+es aconsejable que
+
+Exceptions - impersonal statements which use Modo Indicativo
+
+ser + adjective + que
+
+We use Modo Subjuntivo unless they express
+- a truth (or something that is presented as a truth using phrase like es verdad que)
+- a certainty (es cierto que)
+- a fact (es un hecho que)
+
+Es cierto que mi hermano viene a la fiesta.
+
+But the same phrases in negative form do use Modo Subjuntivo
+
+No es cierto que mi hermano venga a la fiesta.
+
 ## Using cualquier/a to express "any" (indefinite adjectives)
 
 **cualquier/cualquiera** = any ( (it does not matter which or what)
@@ -34,13 +66,11 @@ cualquier/cualquiera = any, can be used both in affirmative and negative sentenc
 
 haber en El Futuro Simple + past participle
 
-|Singular|Plural|
-|-|-|
-|yo habré|nosotros habremos|
-|tú habras|vosotros baréis|
-|él habrá|ellos habrán|
-
-+ past participle
+| Singular  | Plural            |
+|-----------|-------------------|
+| yo habré  | nosotros habremos |  + past participle
+| tú habras | vosotros habréis  |  + past participle
+| él habrá  | ellos habrán      |  + past participle
 
 ## Using Spanish adverbial clauses para que, antes (de) que, hasta que, con tal (de) que, etc. + the present subjunctive (El Presente de Subjuntivo)
 
@@ -114,3 +144,19 @@ The most common relative pronoun is "que" and it can refer to both things and pe
 
 Han ofrecido una devolución a quienes están descontentos con el producto.
 Han ofrecido una devolución a quienes estén descontentos con el producto.
+
+## Conjugate Spanish irregular verbs in the perfect conditional tense (El Condicional Perfecto)
+
+El Condicional Perfecto is used in Spanish to say something would have happened.
+
+Conjugate irregular verbs in El Condicional Perfecto
+
+| Singular               | Plural                       |
+|------------------------|------------------------------|
+| yo habr**ía**          | nostros habr**íamos**        | + past participle (-to/cho)
+| tú habr**ías**         | vosotros habr**íais**        | + past participle (-to/cho) 
+| él/ella/Ud. habr**ía** | ellos/ellas/Uds. habr**ían** | + past participle (-to/cho)
+
+haber in the conditional + past participle of second verb
+
+Yo habría escrito un libro.
