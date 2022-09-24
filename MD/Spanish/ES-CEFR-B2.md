@@ -69,3 +69,18 @@ por mucho que... (no matter how much...)
 una vez que... (once...)
 cuando... (when...)
 
+## Conjugate Spanish verbs in the Spanish imperfect subjunctive tense (El Imperfecto de Subjuntivo)
+
+This tense has two conjugation forms. Regualar verb conjugations:
+
+Conjugation 1
+
+ra|ramos
+ras|rais
+ra|ran
+
+Conjugation 2
+
+se|semos
+ses|seis
+se|sen
