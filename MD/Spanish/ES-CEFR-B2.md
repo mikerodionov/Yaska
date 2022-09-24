@@ -84,3 +84,14 @@ Conjugation 2
 se|semos
 ses|seis
 se|sen
+
+## Spanish relative clauses with the indicative and the subjunctive (subordinate relative clauses)
+
+### Spanish relative clauses with que
+
+Relative pronoun que is used to introduce relative clause.
+
+- Relative clauses with El Indicativo - when "que" is referring to someone or something that we know exists and/or is known to us.
+
+
+- Relative clauses with El Subjunctivo -  when "que" is referring to someone or something that we do not know exists and/or is not known to us.
