@@ -93,5 +93,24 @@ Relative pronoun que is used to introduce relative clause.
 
 - Relative clauses with El Indicativo - when "que" is referring to someone or something that we know exists and/or is known to us.
 
+Saldré con el chico que tiene ojos azules.
+Voy a invitar a mi fiesta a la gente que vive en mi barrio.
+Las personas que han reservado con anticipación pueden pasar por esta ventanilla.
+
+Speaker know  the existence of the person(s) referred to in relative clause.
 
 - Relative clauses with El Subjunctivo -  when "que" is referring to someone or something that we do not know exists and/or is not known to us.
+
+Saldré con un chico que tenga ojos azules.
+Voy a invitar a mi fiesta a la gente que viva en mi barrio.
+Las personas que hayan reservado con anticipación pueden pasar por esta ventanilla.
+
+Busco un chico que hable francés.
+Buscaba un chico que fuera rico.
+
+Speaker does not know specific person/if they exist.
+
+The most common relative pronoun is "que" and it can refer to both things and people. But the same applies to relative pronoun "quien/quienes", when we refer to people.
+
+Han ofrecido una devolución a quienes están descontentos con el producto.
+Han ofrecido una devolución a quienes estén descontentos con el producto.
