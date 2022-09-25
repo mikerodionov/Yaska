@@ -2,6 +2,41 @@
 
 ## Subjunctive
 
+### Conjugate Spanish verbs in the Spanish imperfect subjunctive tense (El Imperfecto de Subjuntivo)
+
+El Imperfecto Subjuntivo is used in some subordinate clauses and particularly in polite requests.
+
+This tense has two conjugation forms. Regualar verb conjugations:
+
+Conjugation 1 AR/ER/IR
+
+| Singular                  | Plural                           |
+|---------------------------|----------------------------------|
+| yo habla**ra**            | nosotros habla**ramos**          |
+| tú habla**ras**           | vosotros habla**rais**           |
+| él/ella/usted habla**ra** | ellos/ellas/ustedes habla**ran** |
+
+Conjugation 2
+
+| Singular                  | Plural                           |
+|---------------------------|----------------------------------|
+| yo habla**se**            | nosotros habla**semos**          |
+| tú habla**ses**           | vosotros halba**seis**           |
+| él/ella/usted habla**se** | ellos/ellas/ustedes habla**sen** |
+
+El Imperfecto Subjuntivo = the stem of the 3rd person plural (ellos, ellas) of El Pretérito Indefinido (without the -ron ending) + CONJ1 or CONJ2 endings
+
+-ra, -ras, -ra, -ramos, -rais, -ran
+-se, -ses, -se, -semos, -seis, -sen
+
+All verbs that are irregular in the 3rd person of El Pretérito Indefinido are also irregular in El Imperfecto Subjuntivo.
+
+Ojalá yo fuera rico. - I wish I were rich.
+Ojalá yo fuese rico. - I wish I were rich.
+Ojalá tú estuvieses aquí.
+
+NOTE: Both the conjugations ending in -ra (conjugation 1) and in -se (conjugation 2) are used equally in Spain, but in Latin America the -ra (conjugation 1) form is more frequent in particular in the spoken language.
+
 ### Using the Spanish subjunctive with negative opinion phrases
 
 ### Using the Spanish imperfect subjunctive in hypothetical clauses introduced by si followed by the Spanish conditional simple
@@ -62,7 +97,7 @@ ningún/ninguna = any, only used in negative sentences
 
 cualquier/cualquiera = any, can be used both in affirmative and negative sentences.
 
-## Conjugate Spanish irregular verbs in El Fututo Perfecto (the perfect future)
+## Conjugate Spanish irregular verbs in El Futuro Perfecto (the perfect future)
 
 haber en El Futuro Simple + past participle
 
@@ -99,22 +134,6 @@ por mucho que... (no matter how much...)
 una vez que... (once...)
 cuando... (when...)
 
-## Conjugate Spanish verbs in the Spanish imperfect subjunctive tense (El Imperfecto de Subjuntivo)
-
-This tense has two conjugation forms. Regualar verb conjugations:
-
-Conjugation 1
-
-ra|ramos
-ras|rais
-ra|ran
-
-Conjugation 2
-
-se|semos
-ses|seis
-se|sen
-
 ## Spanish relative clauses with the indicative and the subjunctive (subordinate relative clauses)
 
 ### Spanish relative clauses with que
@@ -149,6 +168,12 @@ Han ofrecido una devolución a quienes estén descontentos con el producto.
 
 El Condicional Perfecto is used in Spanish to say something would have happened.
 
+El Condicional Perfecto aka El Condicional Compuesto / El Antepospretérito.
+
+It is the past tense of the conditional mood, which expresses actions that would have or might have happened in the past. Refer to missed opportunities and unrelized potential. It is equivalent of english past conditional "would have" + the past participle.
+
+"would have" + the past participle = haber in El Condicional Simple + the past participle of the main verb
+
 Conjugate irregular verbs in El Condicional Perfecto
 
 | Singular               | Plural                       |
@@ -157,6 +182,16 @@ Conjugate irregular verbs in El Condicional Perfecto
 | tú habr**ías**         | vosotros habr**íais**        | + past participle (-to/cho) 
 | él/ella/Ud. habr**ía** | ellos/ellas/Uds. habr**ían** | + past participle (-to/cho)
 
+* pudrir > p**o**drido
+
 haber in the conditional + past participle of second verb
 
-Yo habría escrito un libro.
+Yo **habría escrito** un libro.
+
+ Si vosotras hubierais escuchado a su novio, **habríais puesto** el anillo en un lugar más seguro.
+
+ ## Using Spanish conjunction al + infinitive/perfect infinitive = when doing/ because of doing (something)
+
+al + infinitive
+
+>>>
