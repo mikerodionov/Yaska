@@ -35,15 +35,32 @@ Ojalá yo fuera rico. - I wish I were rich.
 Ojalá yo fuese rico. - I wish I were rich.
 Ojalá tú estuvieses aquí.
 
-NOTE: Both the conjugations ending in -ra (conjugation 1) and in -se (conjugation 2) are used equally in Spain, but in Latin America the -ra (conjugation 1) form is more frequent in particular in the spoken language.
+NOTE: Both the conjugations ending in -ra (conjugation 1) and in -se (conjugation 2) are used equally in Spain, but the **-ra (conjugation 1) form is more frequent in Latin America, in particular, in the spoken language**.
 
-### Using the Spanish subjunctive with negative opinion phrases
+Irregular verbs
 
-### Using the Spanish imperfect subjunctive in hypothetical clauses introduced by si followed by the Spanish conditional simple
+tener > tuvie-
 
-### Using the Spanish present perfect subjunctive after esperar que to express a completed action in the past
+| Singular                | Plural                        |
+|-------------------------|-------------------------------|
+| you tuvie**ra**         | nosotros tuvi*é***ramos**     |
+| tú tuvie**ras**         | vosotros tuvie**rais**        |
+| él/ella/Ud. tuvie**ra** | ellos/ellas/Uds. tuvie**ran** |
 
-### Using the Spanish subjunctive with impersonal expressions
+| Singular                | Plural                        |
+|-------------------------|-------------------------------|
+| you tuvie**se**         | nosotros tuvi*é***semos**     |
+| tú tuvie**ses**         | vosotros tuvie**seis**        |
+| él/ella/Ud. tuvie**se** | ellos/ellas/Uds. tuvie**sen** |
+
+
+### Using the subjunctive with negative opinion phrases
+
+### Using the imperfect subjunctive in hypothetical clauses introduced by si followed by the Spanish conditional simple
+
+### Using the present perfect subjunctive after esperar que to express a completed action in the past
+
+### Using the subjunctive with impersonal expressions
 
 Es necesario que Raul estudue más.
 
@@ -52,20 +69,39 @@ es genial que
 es imprescendible que
 es aconsejable que
 
-Exceptions - impersonal statements which use Modo Indicativo
+Exceptions - impersonal statements which use Modo Indicativo:
 
-ser + adjective + que
-
-We use Modo Subjuntivo unless they express
-- a truth (or something that is presented as a truth using phrase like es verdad que)
-- a certainty (es cierto que)
-- a fact (es un hecho que)
+For ser + adjective + que we mostly use Modo Subjuntivo unless they express:
+- a **truth** (or something that is presented as a truth using phrase like es verdad que)
+- a **certainty** (es cierto que)
+- a **fact** (es un hecho que)
 
 Es cierto que mi hermano viene a la fiesta.
 
 But the same phrases in negative form do use Modo Subjuntivo
 
 No es cierto que mi hermano venga a la fiesta.
+
+### Conjugate verbs in the pluperfect subjunctive (El Pretérito Pluscuamperfecto de Subjuntivo)
+
+El Pretérito Pluscuamperfecto de Subjuntivo has two conjugation forms, because it uses haber conjugated in El Imperfecto Subjuntivo, which has two forms.
+
+1- hubie-ra, -ras, -ra, -ramos, -rais, -ran + past participle 
+2- hubie-se, -ses, -se, -semos, -seis, -sen + past participle
+
+
+| Singular                  | Plural                        |
+|---------------------------|-------------------------------|
+| yo hubie**ra**            | nostoros hubié**ramos**       |
+| tú hubie**ras**           | vosotros hubie**rais**        |
+| él/ella/usted hubie**ra** | ellos/ellas/Uds. hubie**ran** |
+
+| Singular                  | Plural                        |
+|---------------------------|-------------------------------|
+| yo hubie**se**            | nostoros hubié**semos**       |
+| tú hubie**ses**           | vosotros hubie**seis**        |
+| él/ella/usted hubie**se** | ellos/ellas/Uds. hubie**sen** |
+
 
 ## Using cualquier/a to express "any" (indefinite adjectives)
 
@@ -108,6 +144,8 @@ haber en El Futuro Simple + past participle
 | él habrá  | ellos habrán      |  + past participle
 
 ## Using Spanish adverbial clauses para que, antes (de) que, hasta que, con tal (de) que, etc. + the present subjunctive (El Presente de Subjuntivo)
+
+Estoy ahorrando mucho dinero **para que** mis hijos pued**an** ir a la universidad.
 
 Adverbial clauses in Spanish are introduced by conjunctions:
 
@@ -190,8 +228,28 @@ Yo **habría escrito** un libro.
 
  Si vosotras hubierais escuchado a su novio, **habríais puesto** el anillo en un lugar más seguro.
 
- ## Using Spanish conjunction al + infinitive/perfect infinitive = when doing/ because of doing (something)
+ ## Using conjunction al + infinitive/perfect infinitive = when doing/ because of doing (something)
 
 al + infinitive
 
->>>
+**Al terminar la sesión** antes de lo previsto, pudimos volver a casa antes.
+
+The conjunction "al" followed by an infinitive is used in clauses that express either When/while doing (something) or Because of doing (something). 
+
+Conjinction al could also be followed by haber + participle, if it is referring to a past action (El Infinitivo Compuesto).
+
+**Al haber terminado la sesión** antes de lo previsto, pudimos volver a casa antes.
+
+## Using verbs seguir/continuar + present participle = to keep on (doing something)
+
+Conjugated seguir + present participle of second verb = to keep on (doing something)
+
+Jorge **siguió insistiendo** para convencer a la chica.
+
+Conjugated continuar + present participle of second verb = to keep on (doing something)
+
+Jorge **continuó insistiendo** para convencer a la chica.
+
+Both seguir and continuar are followed by a present participle, which coincides with the English structure.
+
+The verb seguir is **a stem-changing verb (e>i)** as well as a **consonant change verb (gu>g)**. 
