@@ -28,3 +28,24 @@ The meaning of this sentence could be:
 1. Irina will dance as long as we sing. (only if we sing she will dance)
 
 2. Irina will dance while we sing. (for as long as/while we sing she will dance -two possible actions happening at the same time)
+
+## Conjugate Spanish stem-changing -car verbs (c > qu) in the present subjunctive (El Presente de Subjuntivo)
+
+Spanish verbs ending in -car replace the -c- with a -qu- in El Presente de Subjuntivo. This is to preserve the sound from the infinitive.
+
+yo 	busque
+tú 	busques
+él / ella / Ud. 	busque
+nosotros / nosotras 	busquemos
+vosotros/vosotras 	busquéis
+ellos / ellas / Uds.   	busquen
+
+aparcar (to park), modificar (to modify), explicar (to explain) or equivocarse (to get something wrong). 
+
+## Conjugate regular verbs in the conditional tense (El Condicional Simple)
+
+Endings coincide with those of the imperfect tense for -er/-ir verbs. El Condicional Simple is formed by adding these endings to the Infinitivo:
+
+|yo 	-ía|nosotros 	-íamos|
+|tú 	-ías|vosotros 	-íais|
+|él / ella / Ud. 	-ía|ellos / ellas / Uds.   	-ían|
