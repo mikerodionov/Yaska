@@ -20,6 +20,20 @@ Some verbs that undergo the o>ue stem change also have a consonant change to k
 
 cocer → yo cueza
 
+### Conjugate stem-changing verbs: o > u (1st and 2nd person plural) in the present subjunctive in Spanish (El Presente de Subjuntivo)
+
+Generally, verbs with vowel change in El Presente de Subjuntivo keep the original vowel from the infinitive in the first and second person plural (nosotros and vosotros). However there are some verbs that don't follow this rule.
+
+dormir, morir
+
+DORMIR
+
+| Singular             | Plural                      |
+|----------------------|-----------------------------|
+| yo duerma            | nosotros d**u**rmamos       |
+| tú duermas           | vosotros d**u**rmáis        |
+| él/ella/usted duerma | ellos/ellas/ustedes duerman |
+
 ### Conjugate Spanish verbs in the Spanish imperfect subjunctive tense (El Imperfecto de Subjuntivo)
 
 El Imperfecto Subjuntivo is used in some subordinate clauses and particularly in polite requests.
@@ -270,4 +284,4 @@ Jorge **continuó insistiendo** para convencer a la chica.
 
 Both seguir and continuar are followed by a present participle, which coincides with the English structure.
 
-The verb seguir is **a stem-changing verb (e>i)** as well as a **consonant change verb (gu>g)**. 
+The verb seguir is **a stem-changing verb (e>i)** as well as a **consonant change verb (gu>g)**.
