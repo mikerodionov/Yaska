@@ -2,6 +2,24 @@
 
 ## Subjunctive
 
+### Conjugate Spanish stem-changing -er verbs: (o > ue) in the present subjunctive (El Presente de Subjuntivo)
+
+o > ue, in all forms except nosotros & vosotros
+
+vovlver, mover, devolver, remover, promover, disolver, envolver, demoler, cocer
+
+VOLVER
+
+| Singular                 | Plural                          |
+|--------------------------|---------------------------------|
+| yo v**ue**lva            | nosotros volvaamos              |
+| tú v**ue**lvas           | vosotros volváis                |
+| él/ella/usted v**ue**lva | ellos/ellas/ustedes v**ue**lvan |
+
+Some verbs that undergo the o>ue stem change also have a consonant change to keep the sound of their infinitive. For example: "cocer" (to boil)
+
+cocer → yo cueza
+
 ### Conjugate Spanish verbs in the Spanish imperfect subjunctive tense (El Imperfecto de Subjuntivo)
 
 El Imperfecto Subjuntivo is used in some subordinate clauses and particularly in polite requests.
