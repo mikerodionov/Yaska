@@ -1,5 +1,17 @@
 #
 
+## Condicional
+
+### Conjugate tener que (would have to) in the conditional tense in Spanish (El Condicional Simple)
+
+TENER
+
+| Singular                  | Plural                        |
+|---------------------------|-------------------------------|
+| yo tendr**ía**            | nostoros tendr**íamos**       |
+| tú tendr**ías**           | vosotros tendr**íais**        |
+| él/ella/usted tendr**ía** | ellos/ellas/Uds. tendr**ían** |
+
 ## Mientras with the present indicative or the present subjunctive
 
 The word "mientras" in Spanish introduces a subordinate clause that expresses an action that is taking place at the same time as another (while) or a condition that is needed to fulfil the action in the main clause (as long as).
