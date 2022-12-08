@@ -129,6 +129,17 @@ But the same phrases in negative form do use Modo Subjuntivo
 
 No es cierto que mi hermano venga a la fiesta.
 
+### Pluperfect Subjunctive (El Préterito Pluscuamperfecto de Subjuntivo)
+
+El Préterito Pluscuamperfecto de Subjuntivo also known as El Antepretérito
+
+Used to express actions that hypothetically might have taken place in the past under other circumstances.
+
+To form: Haber in  El Pretérito Imperfecto Subjuntivo +  Participio
+
+Ellos hubiesen venido. / Ella hubiera venido.
+
+
 ### Conjugate verbs in the pluperfect subjunctive (El Pretérito Pluscuamperfecto de Subjuntivo)
 
 El Pretérito Pluscuamperfecto de Subjuntivo has two conjugation forms, because it uses haber conjugated in El Imperfecto Subjuntivo, which has two forms.
