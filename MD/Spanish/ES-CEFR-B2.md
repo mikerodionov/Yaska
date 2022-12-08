@@ -100,6 +100,35 @@ tener > tuvie-
 | tú tuvie**ses**         | vosotros tuvie**seis**        |
 | él/ella/Ud. tuvie**se** | ellos/ellas/Uds. tuvie**sen** |
 
+### Para que followed by the imperfect subjunctive (purpose subordinate clauses)
+
+"Para que..." introduces **a clause expressing the purpose of the main clause**. This connective is always followed by the subjunctive, not the indicative.
+
+Para que... + El Pretérito Imperfecto Subjuntivo
+
+To use para que with El Pretérito Imperfecto Subjuntivo, we need a **past tense** in the main clause.
+
+Le regalé el diccionario para que lo usara en clase.
+Blanca estaba organizando un viaje para que tuvieran una segunda luna de miel.
+Me sujetaba del brazo para que yo no pudiese escapar.
+
+If the main clause is in El Pretérito Perfecto, then both El Presente de Subjuntivo and El Pretérito Imperfecto Subjuntivo can be used after para que:
+
+He salido antes del trabajo para que podamos comer juntos.
+He salido antes del trabajo para que pudiéramos comer juntos.
+
+NOTE: The subject in the main clause and in the subordinate clase must be different for the use of subjunctive. If the subject is the same in both clauses then we will need the infinitive after "para" (without "que").
+
+Me senté en primera fila para ver mejor el partido. (the same subject)
+Me senté en primera fila para que tú me vieras mejor. (different subjects)
+
+Other connectives that introduce purpose are:
+
+- con el fin de que...
+- a fin de que...
+- a que...
+- con el objeto de que...
+- con el propósito de que...
 
 ### Using the subjunctive with negative opinion phrases
 
