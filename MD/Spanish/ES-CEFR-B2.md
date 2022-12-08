@@ -289,7 +289,9 @@ The most common relative pronoun is "que" and it can refer to both things and pe
 Han ofrecido una devolución a quienes están descontentos con el producto.
 Han ofrecido una devolución a quienes estén descontentos con el producto.
 
-## Conjugate Spanish irregular verbs in the perfect conditional tense (El Condicional Perfecto)
+## Conditional
+
+### Conjugate Spanish irregular verbs in the perfect conditional tense (El Condicional Perfecto)
 
 El Condicional Perfecto is used in Spanish to say something would have happened.
 
@@ -313,9 +315,27 @@ haber in the conditional + past participle of second verb
 
 Yo **habría escrito** un libro.
 
- Si vosotras hubierais escuchado a su novio, **habríais puesto** el anillo en un lugar más seguro.
+Si vosotras hubierais escuchado a su novio, **habríais puesto** el anillo en un lugar más seguro.
 
- ## Using conjunction al + infinitive/perfect infinitive = when doing/ because of doing (something)
+### Using the conditional simple to express probability/speculation about the past
+
+El Condicional Simple is used to express conjecture about the past. We use it to express what we think was probably happening/happened "back" in the past.
+
+Son las 11 de la mañana, y Antonio todavía está durmiendo.
+¿A qué hora llegaría a casa anoche?What time did he get home last night? / I wonder what time he returned home last night?
+Yo creo que llegaría a casa sobre las 3 de la mañana. I think he probably got home at about 3 in the morning.
+
+Speakers are speculating about what happened last night. They are not stating known facts, only what they think probably happened. 
+
+To state known facts we use El Pretérito Indefinido and not El Condicional Simple:
+
+Llegó a las 3 de la mañana.
+
+In Spanish you use El Condicional Simple to speculate about something that happened in the past, to express probability with regards to a past action.
+
+If the conjecture or expression of probability is about the present, then you use El Futuro Simple.
+
+## Using conjunction al + infinitive/perfect infinitive = when doing/ because of doing (something)
 
 al + infinitive
 
